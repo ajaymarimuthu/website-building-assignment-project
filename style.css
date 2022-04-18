@@ -1,0 +1,469 @@
+/* *{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+  
+}
+
+header{
+    background-color: #f1f1f1;
+    height: 5em;
+    margin-left: 10em;
+
+    border-bottom: 1px solid lightblue;
+    padding-bottom:5.3em;
+}
+
+.nav-ul{
+    display: flex;
+    float: right;
+    text-decoration: none;
+    font-size: 11px;
+}
+
+li,span{
+    font-size:  11px;
+}
+
+li,a{
+    font-size: 11px;
+    text-decoration: none;
+    list-style: none;  
+    padding: 5px;
+} */
+
+
+/* ----------------------------  end of top nav bar  -----------------------------  */
+/*  
+nav{
+    display: flex;
+    position: absolute;
+    top: 50px;    
+}
+
+.left, .a{
+    font-size: 12.5px;
+   
+}
+
+.right{
+    position: relative;    
+    left: 35em;
+}
+
+.right .a{
+ font-size: 12.5px;
+}
+
+.search{
+    width: 20rem;
+    height:2rem;
+
+    
+}
+
+.fa-search{
+    position: absolute;
+    top: 5px;
+    right: 4px;
+    cursor: pointer;
+} */
+
+
+     /* --------------------------end of bottom navbar ---------------------------------- */
+
+
+/* .logo-img{
+    width: 9em; 
+    padding-left: 1em;  
+
+}
+
+
+.sidebar-left {
+    background-color: #f1f1f1;
+    width: 11.5%;
+    float: left;  
+    top: 0; 
+    position: absolute;   
+    line-height: 0.5em;   
+    border-right: 1px solid lightblue;
+    padding-bottom: 16%;
+
+ 
+}
+.menu-list-items{
+    padding-left: 0em;
+} */
+
+
+
+              /* ---------------------- end of side navbar ------------------ */
+
+/* 
+ .container{
+     margin-left: 10em;
+     padding: 1em;
+     padding-bottom: 0;
+ }
+ 
+
+ 
+.main-section .main-content{
+     
+    float: left;
+    width: 65%;
+    margin-left: 12em;
+    font-size: calc(1em * 0.875);
+    line-height: 1.5em;
+        
+
+}
+
+.infobox{     
+    position: relative;
+    margin: 10px;
+    margin-top: 5em;        
+    width: 20%;
+    float: right;  
+    border: 0.5px solid lightgray;
+    line-height: 1.5em;
+    
+
+   
+    
+}
+.infobox .taj_image{
+    width: 15em;
+    padding-left: 10px;
+    padding-right: 0;
+    
+}
+
+
+.infobox_left{
+    padding-left: 1em;
+    
+}
+
+.infobox_right{
+    position: absolute;
+    right: 0;
+    padding-right: 2em;     
+   
+}
+
+.infobox .map_img{
+    width: 10%;
+}
+
+.heading_table_contents{
+    text-align: center;
+    justify-content: center;
+ 
+}
+
+.table_Contents{
+     
+    width: 13%;
+    position: relative;
+    display: table;
+    left: 12em;
+    border: 1px solid lightgray;
+    line-height: 0.7em;
+    background-color: #f1f1f1;
+    
+  
+}
+ .htc_list{
+     list-style: number;
+     left: 0;
+   
+ } */
+
+
+
+/* .table_Contents  .htc_list{
+    float: right;
+    width: 20%;
+    left: 15em;
+    position: absolute;
+
+} */
+/* 
+.authority_box{
+     
+    margin-top: 5px;
+    margin-bottom: 10px;
+    text-align: center;
+   
+    
+ 
+    border: 1px solid black;
+ 
+    background-color: #C39BD3;
+    font-weight: bolder;
+    color: blue;
+ 
+} */
+
+/* .categories{
+  
+    border: 1px solid black;
+    margin-bottom: 30px;
+     
+    
+    margin-left: 9.9em;     
+
+}
+
+.footer_area{
+    background-color:#f1f1f1 ;
+    font-size:x-small;
+    margin-left: 16em;
+    padding-bottom: 2.5%;
+} */
+
+
+
+ 
+ 
+ 
+
+    
+
+
+ 
+
+
+
+
+
+    
+
+
+
+
+
+
+
+    *{
+        margin: 0;
+        padding: 0;
+        box-sizing: border-box;
+        font-family: sans-serif;
+      
+    }
+    
+    header{
+        background-color: #f1f1f1;
+        height: 5em;
+        margin-left: 10em;
+    
+        border-bottom: 1px solid lightblue;
+        padding-bottom:5.3em;
+    }
+    
+    .nav-ul{
+        display: flex;
+        float: right;
+        text-decoration: none;
+        font-size: 11px;
+    }
+    
+    li,span{
+        font-size:  11px;
+    }
+    
+    li,a{
+        font-size: 11px;
+        text-decoration: none;
+        list-style: none;  
+        padding: 5px;
+    } 
+
+    nav{
+        display: flex;
+        position: absolute;
+        top: 50px;    
+    }
+    
+    .left, .a{
+        font-size: 12.5px;
+       
+    }
+    
+    .right{
+        position: relative;    
+        left: 35em;
+    }
+    
+    .right .a{
+     font-size: 12.5px;
+    }
+    
+    .search{
+        width: 20rem;
+        height:2rem;
+    
+        
+    }
+    
+    .fa-search{
+        position: absolute;
+        top: 5px;
+        right: 4px;
+        cursor: pointer;
+    }
+
+    .logo-img{
+        width: 9em; 
+        padding-left: 1em;  
+    
+    }
+    
+    
+    .sidebar-left {
+        background-color: #f1f1f1;
+        width: 11.5%;
+        float: left;  
+        top: 0; 
+        position: absolute;   
+        line-height: 0.5em;   
+        border-right: 1px solid lightblue;
+        padding-bottom: 16%;
+    
+     
+    }
+    .menu-list-items{
+        padding-left: 0em;
+    } 
+    
+    .container{
+        margin-left: 10em;
+        padding: 1em;
+        padding-bottom: 0;
+    }
+    
+   
+    
+   .main-section .main-content{
+        
+       float: left;
+       width: 65%;
+       margin-left: 12em;
+       font-size: calc(1em * 0.875);
+       line-height: 1.5em;
+           
+   
+   }
+   
+   .infobox{     
+       position: relative;
+       margin: 10px;
+       margin-top: 5em;        
+       width: 20%;
+       float: right;  
+       border: 0.5px solid lightgray;
+       line-height: 1.5em;
+       
+   
+      
+       
+   }
+   .infobox .taj_image{
+       width: 15em;
+       padding-left: 10px;
+       padding-right: 0;
+       
+   }
+   
+   
+   .infobox_left{
+       padding-left: 1em;
+       
+   }
+   
+   .infobox_right{
+       position: absolute;
+       right: 0;
+       padding-right: 2em;     
+      
+   }
+   
+   .infobox .map_img{
+       width: 10%;
+   }
+   
+   .heading_table_contents{
+       text-align: center;
+       justify-content: center;
+    
+   }
+   
+   .table_Contents{
+        
+       width: 13%;
+       position: relative;
+       display: table;
+       left: 12em;
+       border: 1px solid lightgray;
+       line-height: 0.7em;
+       background-color: #f1f1f1;
+       
+     
+   }
+    .htc_list{
+        list-style: number;
+        left: 0;
+      
+    } 
+
+    .authority_box{
+     
+        margin-top: 5px;
+        margin-bottom: 10px;
+        text-align: center;
+       
+        
+     
+        border: 1px solid black;
+     
+        background-color: #C39BD3;
+        font-weight: bolder;
+        color: blue;
+     
+    }
+   
+
+    .categories{
+  
+        border: 1px solid black;
+        margin-bottom: 30px;
+         
+        
+        margin-left: 9.9em;     
+    
+    }
+    
+    .footer_area{
+        background-color:#f1f1f1 ;
+        font-size:x-small;
+        margin-left: 16em;
+        padding-bottom: 2.5%;
+    }
+
+
+    /* @media screen and (max-width: 1375px)
+    {
+        .sidebar-left {
+            padding-bottom: 18%;
+        }
+        
+    }    
+    */
+   
+
+
+  
